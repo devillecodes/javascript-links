@@ -1,7 +1,7 @@
 # JavaScript Links
 
 These are links that I've found useful and want to keep track of for future reference. This is by no means meant to be an exhaustive list
-of every JavaScript link available, but rather a place to collect links that I've come accross and found useful.
+of every JavaScript link available, but rather a place to collect links that I've come across and found useful.
 
 ## Libraries
 
